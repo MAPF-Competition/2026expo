@@ -2,7 +2,8 @@
 title:               'The League of Robot Runners Virtual Expo 2024'
 tagline:             'May 20th, online from 1530 EST (UTC-5)'
 description:         ''
-url:                 https://expo24.leagueofrobotrunners.org
+url:                 https://mapf-competition.github.io
+baseurl:             /2026expo
 paginate:            1
 permalink:           pretty
 
