@@ -25,9 +25,11 @@ The [technical program](./schedule/) features a number of sessions which will be
 * Community meeting, to discuss the future direction of the competition. -->
 
 **Event Details:**
-* Date: June 2nd, 2025
-* Time: 8 am EDT (UTC-4)
+* Date: TBA
+* Time: TBA
 * Location: the event will be held online via Zoom and participation instructions will be provided to registered attendees.
+<!-- * Date: June 2nd, 2025
+* Time: 8 am EDT (UTC-4)
 
 <style>
     table, td, th {
