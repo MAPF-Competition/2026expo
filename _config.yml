@@ -1,9 +1,9 @@
 # Setup
-title:               'The League of Robot Runners Virtual Expo 2024'
-tagline:             'May 20th, online from 1530 EST (UTC-5)'
+title:               'The League of Robot Runners Virtual Expo 2025'
+tagline:             'June 2nd, from 8 am EDT (UTC-4)'
 description:         ''
-url:                 https://mapf-competition.github.io
-baseurl:             /2026expo
+# url:                 https://expo25.leagueofrobotrunners.org
+url:                 https://mapf-competition.github.io/2025expo/
 paginate:            1
 permalink:           pretty
 

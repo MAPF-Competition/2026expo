@@ -10,8 +10,8 @@ title: Organisers
 - Jingjin Yu, Rutgers University
 
 ## Organising Committee
-- Shao-hung Chan, University of Southern California
 - Zhe Chen, Monash University
 - Teng Guo, Rutgers University
-- Yue Zhang, Monash University
+- Duo Zhang, Rutgers University
 - Han Zhang, University of Southern California
+- Yue Zhang, Monash University

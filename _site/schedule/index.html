@@ -15,17 +15,17 @@
 
   
 
-  <link rel="stylesheet" href="http://localhost:3000/public/css/poole.css">
-  <link rel="stylesheet" href="http://localhost:3000/public/css/syntax.css">
-  <link rel="stylesheet" href="http://localhost:3000/public/css/lanyon.css">
-  <link rel="stylesheet" href="http://localhost:3000/public/css/organisers.css">
+  <link rel="stylesheet" href="http://localhost:4000/public/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:4000/public/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:4000/public/css/lanyon.css">
+  <link rel="stylesheet" href="http://localhost:4000/public/css/organisers.css">
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:3000/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="http://localhost:3000/public/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="http://localhost:4000/public/favicon.ico">
 
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://localhost:3000/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://localhost:4000/atom.xml">
 
   
 </head>
@@ -35,11 +35,7 @@
 
     <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox", checked="true">
-
-
-
-
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -48,7 +44,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="http://localhost:3000/">Home</a>
+    <a class="sidebar-nav-item" href="http://localhost:4000/">Home</a>
 
     
 
@@ -66,31 +62,31 @@
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:3000/call_for_submission/">Call for Submissions</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/call_for_submission/">Call for Submissions</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:3000/invited_speaker/">Invited Speaker</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/invited_speaker/">Invited Speaker</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:3000/organisers/">Organisers</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/organisers/">Organisers</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:3000/registration/">Registration</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/registration/">Registration</a>
         
       
     
       
         
-          <a class="sidebar-nav-item active" href="http://localhost:3000/schedule/">Schedule</a>
+          <a class="sidebar-nav-item active" href="http://localhost:4000/schedule/">Schedule</a>
         
       
     
@@ -117,22 +113,6 @@
   </div> -->
 </div>
 
-<script>
-    // Function to set checkbox status based on screen size
-    function setCheckboxStatus() {
-      var checkbox = document.getElementById('sidebar-checkbox');
-      if (window.innerWidth >= 1024) {
-        checkbox.checked = true; // Set checkbox to checked for large screens (PC)
-      } else {
-        checkbox.checked = false; // Set checkbox to unchecked for small screens (phones)
-      }
-    }
-    
-    // Call the function on page load and window resize
-    window.onload = setCheckboxStatus;
-    window.onresize = setCheckboxStatus;
-</script>
-
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -142,7 +122,7 @@
           <h3 class="masthead-title">
             <a href="/" title="Home">The League of Robot Runners Virtual Expo 2024</a>
             <br/>
-            <small>May 20th, online from 1530 EST (UTC-5)</small>
+            <small>May 20th, from 1530 EDT (UTC-4)</small>
           </h3>
         </div>
       </div>
@@ -150,7 +130,133 @@
       <div class="container content">
         <div class="page">
   <h1 class="page-title">Schedule</h1>
-  <p>The detailed schedule for the 2024 League of Robot Runners Virtual Expo will be available soon. Please check back later for updates.</p>
+  <!-- | **Time (UTC-4)** | **Event** | **Title**| **Speaker** | **Resources** |
+|:---:|:---:|:---:|:---:|:---:|
+| 15:30 - 15:35 | Opening | | | | - |
+| 15:35 - 16:00 | Invited Talk | From Click to Delivery: Challenges and Opportunities in Multi-Agent Path Finding at Amazon | Federico Pecora | - |
+| 16:00 - 16:30 | Technical Talk | Team 1 | - | -->
+<style>
+   td,th {
+    text-align: center;
+    background-color: #ffffff;
+ }
+ tbody tr:nth-child(odd) td{
+  background-color: #ffffff;
+  }
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+</style>
+
+<table>
+    <tr>
+        <th nowrap="">When<br />(UTC-4)</th>
+        <th>What</th>
+        <th>Who</th>
+        <th>Resources</th>
+    </tr>
+    <tr>
+        <td>15:30</td>
+        <td>Opening</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 1</strong> (Chair: Daniel Harabor)</td>
+    </tr>
+    <tr>
+        <td>15:35 </td>
+        <td style="text-align:left;">From Click to Delivery: <br /> Challenges and Opportunities in Multi-Agent Path Finding at Amazon <br />
+        <strong>(Invited Talk)</strong>
+        </td>
+        <td style="text-align:left;">Federico Pecora</td>
+        <td>-</td>
+    </tr>
+    <!-- <tr>
+        <td colspan=4><i>2023 Main Round Competition</i></td>
+    </tr> -->
+    <tr>
+        <td>16:20 </td>
+        <td style="text-align:left;">Competition Overview and Award Ceremony</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>16:50</td>
+        <td><i>Coffee Break</i></td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 2</strong> (Chair: Yue Zhang)</td>
+    </tr>
+    <tr>
+        <td>17:00 </td>
+        <td style="text-align:left;">Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities</td>
+        <td style="text-align:left;">He Jiang<sup>*</sup>, Yulun Zhang, Rishi Veerapaneni and Jiaoyang Li</td>
+        <td>
+        <a target="_blank" href="http://localhost:4000/resources/pikachu.pdf">Report</a>
+        <br />
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Pikachu">Source</a>
+        </td>
+    </tr>
+    <tr>
+        <td>17:15 </td>
+        <td style="text-align:left;">Shadoks Approach for Lifelong Multi-Agent Path Finding</td>
+        <td style="text-align:left;">Aldo Gonzalez-Lorenzo<sup>*</sup> and Guilherme D. da Fonseca</td>
+        <td>
+        <a target="_blank" href="http://localhost:4000/resources/shadoks.pdf">Report</a>
+        <br />
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_Shadoks">Source</a>
+        </td>
+    </tr>
+    <tr>
+        <td>17:30 </td>
+        <td style="text-align:left;">Description of Ideas Used in League of Robot Runners 2023</td>
+        <td style="text-align:left;">Márton Ambrus-Dobai<sup>*</sup></td>
+        <td>
+        <a target="_blank" href="http://localhost:4000/resources/Márton_Ambrus-Dobai.pdf">Report</a>
+        <br />
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_M%C3%A1rton_Ambrus-Dobai">Source</a>
+        </td>
+    </tr>
+    <tr>
+        <td>17:45 </td>
+        <td style="text-align:left;">Puzzle Heuristics: Efficient Lifelong Multi-Agent Pathfinding Algorithm for Large-scale Challenging Environments</td>
+        <td style="text-align:left;">Wonjong Lee<sup>*</sup>, Joonyeol Sim<sup>*</sup> and Changjoo Nam</td>
+        <td>
+        <a target="_blank" href="http://localhost:4000/resources/AIRLAB.pdf">Report</a>
+        <br />
+        <a target="_blank" href="https://github.com/MAPF-Competition/Code-Archive/tree/master/2023%20Competition/Team_AIRLAB">Source</a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" style="background-color: #f9f9f9;"><strong>Session 3</strong> (Chair: Zhe Chen)</td>
+    </tr>
+    <tr>
+        <td>18:00 </td>
+        <td style="text-align:left;">2024 Competition Announcement </td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>18:05 </td>
+        <td style="text-align:left;">Community Discussion</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>18:30 </td>
+        <td style="text-align:left;">End</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+</table>
+
+<p>
+<sup>*</sup> Presenter of the work.
+</p>
 
 </div>
 

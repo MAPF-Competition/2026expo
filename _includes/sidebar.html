@@ -1,13 +1,9 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox", checked="true">
-
-
-
-
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
+<!-- <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
@@ -29,9 +25,6 @@
       {% endif %}
     {% endfor %}
 
-    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
-    <!-- <hr> -->
-
   </nav>
 
   <div class="sidebar-item">
@@ -40,29 +33,4 @@
     <p><a  href="https://discord.com/invite/CEYT4g4raR">Discord</a></p>
   </div>
 
-
-
-  <!-- <div class="sidebar-item">
-    <p>Currently v{{ site.version }}</p>
-
-    <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-    </p>
-  </div> -->
-</div>
-
-<script>
-    // Function to set checkbox status based on screen size
-    function setCheckboxStatus() {
-      var checkbox = document.getElementById('sidebar-checkbox');
-      if (window.innerWidth >= 1024) {
-        checkbox.checked = true; // Set checkbox to checked for large screens (PC)
-      } else {
-        checkbox.checked = false; // Set checkbox to unchecked for small screens (phones)
-      }
-    }
-    
-    // Call the function on page load and window resize
-    window.onload = setCheckboxStatus;
-    window.onresize = setCheckboxStatus;
-</script>
+</div> -->
