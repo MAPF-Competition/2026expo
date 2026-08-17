@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Organisers
+permalink: /organisers/
 ---
 
 ## Chairs
