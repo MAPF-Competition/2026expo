@@ -3,8 +3,8 @@ title:               'The League of Robot Runners Virtual Expo 2026'
 # tagline:             'June 2nd, from 8 am EDT (UTC-4)'
 tagline:             'TBD'
 description:         ''
-url:                 https://mapf-competition.github.io
-baseurl:             /2026expo
+url:                 https://expo26.leagueofrobotrunners.org
+baseurl:           
 paginate:            1
 permalink:           pretty
 
