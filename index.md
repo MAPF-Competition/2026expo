@@ -35,9 +35,9 @@ The [technical program](./schedule/) features a number of sessions which will be
  }
 </style>
 
-|     |     |     |     |     |     |     |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|![](./resources/logos/mit_logo.png) | ![](./resources/logos/monash_logo.png) | ![](./resources/logos/rutgers_logo.png) | ![](./resources/logos/uci-logo.jpg) | ![](./resources/logos/usc_logo.png) |  | ![](./resources/logos/amazon_robotics_logo.png)|
+|     |     |     |     |     |     |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|![](./resources/logos/mit_logo.png) | ![](./resources/logos/monash_logo.png) | ![](./resources/logos/rutgers_logo.png) | ![](./resources/logos/uci-logo.jpg) |  | ![](./resources/logos/amazon_robotics_logo.png)|
 
 
      
