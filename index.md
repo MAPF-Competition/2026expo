@@ -25,7 +25,7 @@ The [technical program](./schedule/) features a number of sessions which will be
 * Community meeting, to discuss the future direction of the competition. -->
 
 **Event Details:**
-* Date: TBA
+* Date: November 3, 2026
 * Time: TBA
 * Location: the event will be held online via Zoom and participation instructions will be provided to registered attendees.
 
