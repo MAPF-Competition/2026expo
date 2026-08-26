@@ -5,7 +5,7 @@ title: Organisers
 
 ## Chairs
 - Daniel Harabor, Monash University
-- Sven Koenig, University of Southern California
+- Sven Koenig, University of California, Irvine
 - Cathy Wu, Massachusetts Institute of Technology
 - Jingjin Yu, Rutgers University
 
