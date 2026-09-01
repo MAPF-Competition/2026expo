@@ -281,6 +281,10 @@ a.sidebar-nav-item:focus {
   -webkit-transition: -webkit-transform .3s ease-in-out;
           transition: transform .3s ease-in-out;
 }
+.wrap {
+  -webkit-transition: -webkit-transform .3s ease-in-out, width .3s ease-in-out;
+          transition: transform .3s ease-in-out, width .3s ease-in-out;
+}
 
 #sidebar-checkbox:checked + .sidebar {
   z-index: 10;
@@ -292,6 +296,34 @@ a.sidebar-nav-item:focus {
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
+}
+
+/* Keep the close button inside the open drawer, clear of page content. */
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  z-index: 11;
+  -webkit-transform: translateX(9rem);
+      -ms-transform: translateX(9rem);
+          transform: translateX(9rem);
+}
+
+/* Reflow the page beside the drawer when there is room for both. */
+@media (min-width: 48em) {
+  #sidebar-checkbox:checked ~ .wrap {
+    width: calc(100% - 14rem);
+  }
+}
+
+/* On phone-sized screens, keep the drawer as an overlay. */
+@media (max-width: 47.99em) {
+  #sidebar-checkbox:checked ~ .wrap {
+    -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+            transform: translateX(0);
+  }
+
+  #sidebar-checkbox:checked ~ .sidebar {
+    box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
+  }
 }
 
 
