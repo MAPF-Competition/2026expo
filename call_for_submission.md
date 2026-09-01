@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Call for Submissions
+title: Call for Participation
 permalink: /call_for_submission/
 ---
 
-We invite all teams and team members from the League of Robot Runners to participate in our 2026 Virtual Expo, which takes place online on November 3, 2026.
+We invite all teams and team members from the League of Robot Runners to participate in our 2026 Virtual Expo, which takes place online on November 3, 2026, at 3:30 PM EST (UTC-5).
 
 The expo is a community event where we celebrate and reflect on the recent competition round. It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the League of Robot Runners such a memorable success!
 
@@ -33,7 +33,8 @@ Submissions are non-archival. They can describe recently published work, work th
 
 Submissions take the form of a technical report describing a topic of interest and must be in AAAI style (see the [AAAI-26 Author Kit](https://aaai.org/conference/aaai/aaai-26/submission-instructions/)). The submission type can be any of the following: a 2-page extended abstract, a 4-page short paper, or an 8-page long paper, plus 1 additional page for references. Certain types of submissions are better suited for certain topics; for example, authors of system descriptions may wish to aim for a longer paper, as this helps future replication and extension studies. Each submission will undergo a light, single-blind review process to ensure an acceptable level of quality.
 
-Submission portal details will be announced.
+<!-- Replace # with the submission-system URL before publishing. -->
+**Submission system:** [link placeholder](#)
 
 **Important Dates:**
 

@@ -26,7 +26,7 @@ The [technical program](./schedule/) features a number of sessions which will be
 
 **Event Details:**
 * Date: November 3, 2026
-* Time: TBA
+* Time: 3:30 PM EST (UTC-5)
 * Location: the event will be held online via Zoom and participation instructions will be provided to registered attendees.
 
 <style>
