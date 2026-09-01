@@ -310,14 +310,14 @@ a.sidebar-nav-item:focus {
 }
 
 /* Reflow the page beside the drawer when there is room for both. */
-@media (min-width: 48em) {
+@media (min-width: 40em) {
   #sidebar-checkbox:checked ~ .wrap {
     width: calc(100% - 14rem);
   }
 }
 
 /* On phone-sized screens, keep the drawer as an overlay. */
-@media (max-width: 47.99em) {
+@media (max-width: 39.99em) {
   #sidebar-checkbox:checked ~ .wrap {
     -webkit-transform: translateX(0);
         -ms-transform: translateX(0);
@@ -326,6 +326,14 @@ a.sidebar-nav-item:focus {
 
   #sidebar-checkbox:checked ~ .sidebar {
     box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
+  }
+}
+
+/* The open drawer already clears the title at compact desktop widths. */
+@media (min-width: 40em) and (max-width: 48em) {
+  #sidebar-checkbox:checked ~ .wrap .masthead-title {
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
 }
 
