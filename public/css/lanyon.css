@@ -116,7 +116,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 48em) {
   .masthead-title {
+    padding-left: 4rem;
+    padding-right: .5rem;
     text-align: center;
+    overflow-wrap: anywhere;
   }
   .masthead-title small {
     display: none;
