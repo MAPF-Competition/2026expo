@@ -362,18 +362,28 @@ a.sidebar-nav-item:focus {
   text-align: center;
 }
 
-/* Institution and sponsor logos keep their full proportions and wrap as needed. */
+/* Keep all institution and sponsor logos in one proportional row. */
 .sponsor-logos {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  justify-content: center;
+  gap: .4rem;
+  margin: 2rem 0;
+}
+.sponsor-logo {
+  display: flex;
+  flex: 1 1 0;
+  min-width: 0;
   align-items: center;
   justify-content: center;
-  gap: 1.25rem 2rem;
-  margin: 2rem 0;
+  padding: .3rem .35rem;
+  background-color: #fafafa;
+  border: 1px solid #eee;
+  border-radius: .2rem;
 }
 .sponsor-logos img {
   display: block;
-  flex: 0 1 auto;
   width: auto;
   height: auto;
   max-width: 100%;
