@@ -29,15 +29,13 @@ The [technical program](./schedule/) features a number of sessions which will be
 * Time: 3:30 PM EST (UTC-5)
 * Location: the event will be held online via Zoom and participation instructions will be provided to registered attendees.
 
-<style>
-    table, td, th {
-    border: none!important;
- }
-</style>
-
-|     |     |     |     |     |     |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|![](./resources/logos/mit_logo.png) | ![](./resources/logos/monash_logo.png) | ![](./resources/logos/rutgers_logo.png) | ![](./resources/logos/uci-logo.jpg) |  | ![](./resources/logos/amazon_robotics_logo.png)|
+<div class="sponsor-logos" aria-label="Participating institutions and sponsor">
+  <img src="{{ '/resources/logos/mit_logo.png' | relative_url }}" alt="Massachusetts Institute of Technology">
+  <img src="{{ '/resources/logos/monash_logo.png' | relative_url }}" alt="Monash University">
+  <img src="{{ '/resources/logos/rutgers_logo.png' | relative_url }}" alt="Rutgers University">
+  <img src="{{ '/resources/logos/uci-logo.jpg' | relative_url }}" alt="University of California, Irvine">
+  <img src="{{ '/resources/logos/amazon_robotics_logo.png' | relative_url }}" alt="Amazon Robotics">
+</div>
 
 
      
