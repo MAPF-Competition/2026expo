@@ -33,8 +33,7 @@ Submissions are non-archival. They can describe recently published work, work th
 
 Submissions take the form of a technical report describing a topic of interest and must be in AAAI style (see the [AAAI-26 Author Kit](https://aaai.org/conference/aaai/aaai-26/submission-instructions/)). The submission type can be any of the following: a 2-page extended abstract, a 4-page short paper, or an 8-page long paper, plus 1 additional page for references. Certain types of submissions are better suited for certain topics; for example, authors of system descriptions may wish to aim for a longer paper, as this helps future replication and extension studies. Each submission will undergo a light, single-blind review process to ensure an acceptable level of quality.
 
-<!-- Replace # with the submission-system URL before publishing. -->
-**Submission system:** [link placeholder](#)
+**Submission system:** [Submit your report through EasyChair](https://easychair.org/conferences/?conf=lorrvirtualexpo2026).
 
 **Important Dates:**
 
