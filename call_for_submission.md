@@ -37,8 +37,8 @@ Submissions take the form of a technical report describing a topic of interest a
 
 **Important Dates:**
 
-* Submission deadline: TBA
-* Paper notification: TBA
+* Submission deadline: October 9, 2026 (AoE)
+* Paper notification: October 25, 2026 (AoE)
 * Final version: TBA
 
 All deadlines are “anywhere on earth” (UTC-12).
