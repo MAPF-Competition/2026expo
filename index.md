@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-> 📢 All the recordings of the virtual expo are now avaliable at the [Schedule](./schedule/) page!
 
 # Welcome
 
