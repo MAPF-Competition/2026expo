@@ -10,7 +10,9 @@ The League of Robot Runners virtual expo is a community event where we celebrate
 
 This is a **free event** for researchers and practioners interested in the League of Robot Runners competition and in the area of Multi-Agent Path Finding. 
 
-**More details coming soon.**
+**Invited speaker:** [Ameya Agaskar]({{ '/invited_speaker/' | relative_url }}) — Sr. Research Scientist at Amazon Robotics. More speaker details are coming soon.
+
+**Registration is now open.** [Register for the free Expo]({{ '/registration/' | relative_url }}). Attendance is open to everyone; you do not need to submit a report to attend.
 <!-- We welcome [submissions](./call_for_submission/) for the technical program (informal, non-archival) from all teams and team memebers that participated the 2023 main round.
 Attendance is open to anyone, including non-competitors and students. Please refer to the [registration](./registration/) page for more details. -->
 
