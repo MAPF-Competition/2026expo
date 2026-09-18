@@ -6,7 +6,7 @@ permalink: /registration/
 
 Registration is now open for the **2026 League of Robot Runners Virtual Expo**. Attendance is free and open to everyone interested in multi-robot coordination. You do not need to submit a report to attend.
 
-**[Register for the Expo](https://forms.gle/DPuik5zsFMJCpLL47)**
+**[Register for the Expo](https://forms.gle/t7uF2QxEycZnB6SG7)**
 
 - **Date:** Tuesday, November 3, 2026
 - **Time:** 3:30 PM EST (UTC−5), equivalent to 20:30 UTC

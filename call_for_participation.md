@@ -42,7 +42,7 @@ Reports should use AAAI style and may be **2-page extended abstracts, 4-page sho
 
 ### Registration
 
-**Registration is now open!** [**Register for the Expo**](https://forms.gle/DPuik5zsFMJCpLL47).
+**Registration is now open!** [**Register for the Expo**](https://forms.gle/t7uF2QxEycZnB6SG7).
 
 Joining instructions will be provided to registered attendees. Visit the [**registration page**](https://expo26.leagueofrobotrunners.org/registration/) for event details, and check the event website for speaker and program updates.
 
