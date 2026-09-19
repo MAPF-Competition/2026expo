@@ -1,4 +1,4 @@
-# Call for Participation: 2026 League of Robot Runners Virtual Expo
+**Call for Participation: 2026 League of Robot Runners Virtual Expo**
 
 **Hello Robot Runners!**
 
@@ -6,20 +6,20 @@ We invite you to the **2026 League of Robot Runners Virtual Expo**, a free onlin
 
 Join us to reflect on the 2026 competition, learn about participants’ approaches, celebrate outstanding achievements, and discuss the challenges and opportunities ahead.
 
-🌐 [**Event website**](https://expo26.leagueofrobotrunners.org/)
+Website: [Event website](https://expo26.leagueofrobotrunners.org/)
 
-### Program Highlights
+**Program Highlights:**
 
 - Keynote talks from industry and academia.
 - Highlights and awards from the 2026 competition.
 - Technical talks from competing teams and team members.
 - Community discussion about the competition and its future direction.
 
-We are pleased to announce **Ameya Agaskar — Sr. Research Scientist at Amazon Robotics** as an invited speaker. More speaker details are coming soon. Visit the [**invited speakers page**](https://expo26.leagueofrobotrunners.org/invited_speaker/) for updates.
+We are pleased to announce **Ameya Agaskar — Sr. Research Scientist at Amazon Robotics** as an invited speaker. More speaker details are coming soon. Visit the [invited speakers page](https://expo26.leagueofrobotrunners.org/invited_speaker/) for updates.
 
 We welcome past participants, prospective competitors, students, and anyone interested in Multi-Agent Path Finding and Multi-Robot Path Planning. You do not need to submit a report to attend.
 
-### Call for Contributions
+**Call for Contributions:**
 
 Share your work with the community! We invite technical reports covering competition systems and algorithms, post-competition analysis, and perspectives on the competition’s design, goals, and future.
 
@@ -30,21 +30,22 @@ Reports should use AAAI style and may be **2-page extended abstracts, 4-page sho
 - **Submission deadline: October 9, 2026, Anywhere on Earth (UTC−12)**
 - **Notification: October 25, 2026, Anywhere on Earth (UTC−12)**
 
-📝 [**Submit through EasyChair**](https://easychair.org/conferences/?conf=lorrvirtualexpo2026)  
-📄 [**Full call and submission instructions**](https://expo26.leagueofrobotrunners.org/call_for_submission/)
+Submission system: [Submit through EasyChair](https://easychair.org/conferences/?conf=lorrvirtualexpo2026)
 
-### Event Details
+Submission instructions: [Full call and submission instructions](https://expo26.leagueofrobotrunners.org/call_for_submission/)
+
+**Event Details:**
 
 - **Date:** Tuesday, November 3, 2026
 - **Time:** 3:30 PM EST (UTC−5), equivalent to 20:30 UTC
 - **Location:** Online via Zoom
 - **Cost:** Free
 
-### Registration
+**Registration:**
 
-**Registration is now open!** [**Register for the Expo**](https://forms.gle/t7uF2QxEycZnB6SG7).
+**Registration is now open!** [Register for the Expo](https://forms.gle/t7uF2QxEycZnB6SG7).
 
-Joining instructions will be provided to registered attendees. Visit the [**registration page**](https://expo26.leagueofrobotrunners.org/registration/) for event details, and check the event website for speaker and program updates.
+Joining instructions will be provided to registered attendees. Visit the [registration page](https://expo26.leagueofrobotrunners.org/registration/) for event details, and check the event website for speaker and program updates.
 
 For questions, contact [league-of-robot-runners@googlegroups.com](mailto:league-of-robot-runners@googlegroups.com).
 
