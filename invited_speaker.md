@@ -27,4 +27,8 @@ permalink: /invited_speaker/
   </div>
 </div>
 
-Talk details are coming soon.
+## Kinodynamic Motion Coordination for Multi-Robot Teams
+
+**Abstract:** Motion coordination (namely motion planning and control) is a fundamental building block for deploying robots to execute useful tasks safely. For logistics, tasks may include moving goods with various kinds of robots such as differential drive movers or automated forklifts. I will discuss global planning algorithms that are able to compute near-optimal solutions for kinodynamic motion planning (namely db-(E)CBS and db-LaCAM), distributed techniques that avoid sharing global knowledge for planning (GLAS), and plan execution frameworks that provide some level of safety even if unforeseen changes in the environment or disturbances occur during plan execution (CBFs). Finally, I'll outline open challenges that we need to solve for future efficient and safe deployments of autonomous multi-robot teams in the logistics domain.
+
+**Bio:** Wolfgang Hönig is an assistant professor (tenure-track) at TU Berlin heading the Intelligent Multi-Robot Coordination Lab. Previously, he was an independent junior research group leader at TU Berlin and before that he was a postdoctoral scholar at the Department of Aerospace, California Institute of Technology. He holds a Ph.D. in Computer Science from the University of Southern California (USC), an MS.C. in Computer Science (Intelligent Robotics) from USC, and a Diploma in Computer Science from TU Dresden. He has worked at NVIDIA on developer tools, at Amazon Robotics on task and motion planning problems, and at Bitcraze A.B. on software for flying robots.
