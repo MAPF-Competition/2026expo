@@ -19,7 +19,6 @@ permalink: /invited_speaker/
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem; margin-top: 3rem; margin-bottom: 1.5rem;">
   <figure style="width: 240px; max-width: 100%; margin: 0;">
     <img src="{{ '/resources/wolfgang-hoenig.jpg' | relative_url }}" alt="Wolfgang Hönig" width="240" height="160" style="width: 240px; max-width: 100%; height: auto; margin: 0; border-radius: 10%;">
-    <figcaption style="font-size: .65rem; margin-top: .25rem;">Photo: Christian Kielmann</figcaption>
   </figure>
   <div style="flex: 1 1 240px;">
     <h2><a href="https://whoenig.github.io/">Wolfgang Hönig</a></h2>
